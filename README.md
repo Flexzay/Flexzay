@@ -3,7 +3,7 @@
     <h1 align="center">### Hi there 👋, I am Ricardo</h1>
     <h3 aling="center">Hello! I am a young man who is learning to code, passionate about technology and interested in providing innovative solutions through software development.
         From a very early age I was fascinated by the world of computing and as I got older I became more curious to learn how to make web pages and be able to offer solutions to people through this medium.
-        I am in the process of training and I want to specialize in various programming languages ​​such as Java, Python, JavaScript, C++, PHP.</h3>
+        I am in the process of training and I want to specialize in various programming language ​​such as  PHP.</h3>
 
 </div>
 
