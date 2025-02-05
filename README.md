@@ -1,19 +1,16 @@
-<div class="gif"  align="center">
-    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200px">
-    <h1 align="center">### Hi there 👋, I am Ricardo</h1>
-    <h3 aling="center">Hello! I am a young man who is learning to code, passionate about technology and interested in providing innovative solutions through software development.
-        From a very early age I was fascinated by the world of computing and as I got older I became more curious to learn how to make web pages and be able to offer solutions to people through this medium.
-        I am in the process of training and I want to specialize in various programming language ​​such as  PHP.</h3>
+```python
+class ProfileInformation():
+    
+  def __init__(self):
+    self.name = "Ricardo Rivera";
+    self.username = "Flexzay";
+    self.location = "San jose del guaviare, Colombia";
+   // self.twitter = "@abhigyantrips";
+    //self.web = "https://abhigyantrips.dev";
+  
+  def __str__(self):
+    return self.name
 
-</div>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if __name__ == '__main__':
+    me = ProfileInformation()
+```
