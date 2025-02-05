@@ -5,8 +5,6 @@ class ProfileInformation():
     self.name = "Ricardo Rivera";
     self.username = "Flexzay";
     self.location = "San jose del guaviare, Colombia";
-   // self.twitter = "@abhigyantrips";
-    //self.web = "https://abhigyantrips.dev";
   
   def __str__(self):
     return self.name
