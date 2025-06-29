@@ -7,7 +7,7 @@
 
 
 ¡HOLA! Soy Ricardo Rivera, un estudiante que actualmente vive en San José del Guaviare, Colombia. Me estoy preparando para entrar a la universidad y, en este momento, estoy realizando mi etapa productiva del SENA.
-Por ahora, estoy aprendiendo <a href="https://es.wikipedia.org/wiki/Angular_(framework)">Angular</a>,  a través de pequeños proyectos.
+Por ahora, estoy aprendiendo <a href="https://es.wikipedia.org/wiki/React_Native">React Native</a>,  a través de pequeños proyectos.
 
 
 
